@@ -1,1 +1,1 @@
-Solving questions using for loop
+Solving questions using for loop.
